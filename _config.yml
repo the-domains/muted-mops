@@ -1,0 +1,14 @@
+layout_spectrum: 0.44572238251566887
+typography_spectrum: 0.23190307104960084
+color:
+  brandStrength: 0.05996820121072233
+  lightness: 0.26955391000956297
+  saturation: 0.9400592462625355
+  rhythmicContrast: 0.1435104557313025
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: muted mops
